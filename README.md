@@ -51,7 +51,10 @@
 </div>
 
 ---
-
+### 💾 Кодинг
+icons/python/python-original-wordmark.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+---
 ### 💾 Работа с данными:
 
 <div>
