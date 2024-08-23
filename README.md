@@ -44,9 +44,6 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="redux" alt="redux" width="50" height="50"/>&nbsp;
 </div>
-<div>
-    <img src="https://www.codewars.com/users/shelldee12345/badges/small width="50" height="50"/>&nbsp
-</div>
 
 ---
 
