@@ -62,4 +62,7 @@
 </div>
 
 ---
-https://www.codewars.com/users/shelldeee/badges/small
+<div>
+  <img src="https://www.codewars.com/users/shelldeee/badges/micro/>&nbsp
+</div>
+
