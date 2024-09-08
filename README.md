@@ -44,7 +44,7 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="redux" alt="redux" width="50" height="50"/>&nbsp;
 </div>
-![Codewars](https://www.codewars.com/users/shellden/badges/small)
+
 ---
 
 ### 💾 Работа с данными:
@@ -62,5 +62,4 @@
 </div>
 
 ---
-
-
+![Codewars](https://www.codewars.com/users/shellden/badges/small)
