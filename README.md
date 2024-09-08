@@ -62,7 +62,5 @@
 </div>
 
 ---
-<div>
-  <img src="https://www.codewars.com/users/shelldeee/badges/micro.svg" width="40" height="40"/>&nbsp
-</div>
 
+![Codewars](https://www.codewars.com/users/shelldeee/badges/micro)
