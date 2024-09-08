@@ -62,4 +62,4 @@
 </div>
 
 ---
-![Codewars](https://github.r2v.ch/codewars?user=shelldee12345)
+https://www.codewars.com/users/shelldeee/badges/small
