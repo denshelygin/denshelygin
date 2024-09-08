@@ -63,4 +63,4 @@
 
 ---
 
-![Codewars](https://www.codewars.com/users/shelldeee/badges/small)
+![Codewars](https://www.codewars.com/users/shellden/badges/small)
