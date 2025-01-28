@@ -69,6 +69,7 @@
 ### 💾 Работа с данными:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg " title=DBbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
 </div>
 
 ---
