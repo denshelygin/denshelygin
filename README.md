@@ -47,9 +47,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <![Codewars](https://www.codewars.com/users/shellden/badges/small)/>&nbsp
+</div> 
+---
+
 ![Codewars](https://www.codewars.com/users/shellden/badges/small)
-</div>
+
 ---
 ### 💾 Автотестирование
 <div>
